@@ -1,3 +1,3 @@
 module.exports = {
-  basePath: '/next-routing-test',
+  basePath: '/5yF8yic6eoHK4v',
 }
